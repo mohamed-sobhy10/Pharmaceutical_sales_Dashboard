@@ -17,9 +17,10 @@ It highlights key KPIs, representative performance, product trends, and cluster-
 ### 🧹 Data Cleaning & Preparation
 - Removed duplicates and standardized text format (capitalized each word)
 - Unpivoted monthly columns into a single column for easier analysis
-- Integrated and loaded data into Power BI for visualization<img width="1920" height="1080" alt="Screenshot 2025-10-28 173725" src="https://github.com/user-attachments/assets/3c51af90-cdd9-49ed-a5b1-fa7db0e0e2c5" />
-
-
+- Integrated and loaded data into Power BI for visualization 
+- make a Relationship between Cluster , rep and date tables with the actual and target tables in data model
+<img width="833" height="631" alt="Screenshot 2025-10-28 171550" src="https://github.com/user-attachments/assets/a1216c70-f539-43df-8078-b235ec5683b7" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-28 173725" src="https://github.com/user-attachments/assets/3c51af90-cdd9-49ed-a5b1-fa7db0e0e2c5" />
 ---
 
 ### 📊 Key Insights
